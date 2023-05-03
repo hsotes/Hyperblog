@@ -1,5 +1,7 @@
 me llamo hernan soto
 
-tengo 40 años
-
+tengo 41 años y naci en Bolivia, 
+pero ahora vivo en Buenos Aires Argentina
+me he mudado muchas veces
+esta debe ser la ultima
 este es mi primer experimento en git github
