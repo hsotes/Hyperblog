@@ -5,3 +5,9 @@ pero ahora vivo en Buenos Aires Argentina
 me he mudado muchas veces
 esta debe ser la ultima
 este es mi primer experimento en git github
+
+notas de git github
+el comnado add + el nombre del archivo(incluyendo la extencion) adjunta los cambios del archivo a Git
+el comando add . agrega los cambios del archivo a Git se usa cuando tenemos muchos archivos y queremos guardar los cambios
+el comando commit actualiza el repositorio con los cambios que  hicimos con add, el comando commit debe ir acompañado de un mensage referente a las correcciones que hicimos, es una buena practica; cuando nos olvidamos del mensage nos lleva a una ventana que nos obliga a colocar el mensage, para olocar el mensage debemos presionar esc + i, y podremos escribir, si comensamos a escribir tambien nos dejara la computadora ya que asume que no sabes el comando. para salir de esa ventana y guardar los cambios en el repositorios debemos presionar esc + ctr + z + z, lo que hace es forzar el envio del commit porque guarda el archivo, es la forma de guardar en vim.
+el comando diff seguido de la seria del commid + la serie del otro comid que queremos comparar, envia la diferencia entre dos versiones de  los commid de historial cuales quiera que sean
