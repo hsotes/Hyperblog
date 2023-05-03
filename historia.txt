@@ -15,7 +15,7 @@ El comando diff seguido de la serie del commid + la serie del otro comid que que
 El comando status muestra el estado del repositorio y los cambios que se dieron frente a la ultima version.
 El comando log + nombre de archivo, muestra todas las versiones y cmabios que se hicieron en el repositorio sin mostrar los detalles.
 el comando show + el nombre del archivo sirve para mostrar los ultimos cambios que se hicieron a detalle.
-con el comando checkout traes todos los ultimos cambios que se hicieron por los compañeros de tu equipo, (cambios que tu no sabias que se hicieron) hacia tu carpeta.
-el comando reset + la serie de la version a la que queremos volver, regresa a esta serie y borra todas las series posteriores, existen dos tipos de reset, el suave y el duro.
+El comando checkout + serie de la version + el nombre del archivo trae a la vista la version a la que hacemos referencia, para volver a el ultimo archivo se usa checkout + master + nombre del archivo, y nos trae la ultima version.
+El comando reset + la serie de la version a la que queremos volver, regresa a esta serie y borra todas las series posteriores, existen dos tipos de reset, el suave y el duro.
 git reset 2lkh37783...serie... --hard es el que borra absoultamente todo los cambios hechos posteriores a esta version, es el comando mas peligroso.
 git reset 2o83lkja8...serie... --soft vueve a esta cersion pero los cambios que estan en statgin, osea lo que guardamos con add . se queda para guardar en el proximo commit. 
