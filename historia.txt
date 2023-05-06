@@ -26,3 +26,4 @@ git reset 2lkh37783...serie... --hard es el que borra absoultamente todo los cam
 git reset 2o83lkja8...serie... --soft vueve a esta cersion pero los cambios que estan en statgin, osea lo que guardamos con add . se queda para guardar en el proximo commit. 
 con git branch +nombre de la nueva rama, se crea una rama, y todos los cambios que se realicen solo sera en esa rama para cambiar de rama a master, a otra rama, se usa git checkout.
 la contraseña para mis llaves publicas y provadas es 5545285 
+~
